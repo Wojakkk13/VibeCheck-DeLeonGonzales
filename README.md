@@ -46,7 +46,9 @@ VibeCheck-DeLeonGonzales/
 │   └── app.js            # Frontend logic and API integration
 └── README.md             # Project documentation
 
-# Installation and Setup
+```
+
+## Installation and Setup
 
 ---
 
