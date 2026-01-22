@@ -23,6 +23,7 @@ app.use(express.json());
 
 // Data pools (random picks). You can customize these.
 const fortunes = [
+  "Your code will be bug-free for the next 24 hours.",
   "You will debug it in 5 minutes... after 55 minutes of panic.",
   "Your next commit will be clean and meaningful.",
   "A bug will disappear when you add one console.log().",
