@@ -1,7 +1,7 @@
 # VibeCheck-DeLeonGonzales
 
 ## Project Overview
-A full-stack web application developed for **CPE 411L**. This project demonstrates a **Node.js and Express** backend integrated with a vanilla JavaScript frontend to perform various API operations, including fetching data and managing a server-side counter.
+This web application is an interactive **Vibe Checker** and developer toolkit. It features a dynamic frontend that communicates with a **Node.js** backend to deliver random developer fortunes, programming jokes, and mood-based messages. It also includes a real-time "Smash" counter and a secure "Secret" route to demonstrate full-stack API integration and state management.
 
 ---
 
